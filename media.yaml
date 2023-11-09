@@ -1,0 +1,4 @@
+name: Media Plugin
+machine_name: media_plugin
+description: Media management plugin
+service_provider: Dangkhoa\Plugins\Media\src\Providers\MediaServiceProvider
